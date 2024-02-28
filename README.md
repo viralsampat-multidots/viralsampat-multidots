@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>👋 Hi! I'm Viral Sampat</h1>
 
 <!--
 **viralsampat-multidots/viralsampat-multidots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
