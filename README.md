@@ -1,5 +1,6 @@
 <h1>👋 Hi! I'm Viral Sampat</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p>Sr. WordPress Engineer ❯ JavaScript Developer ❯ Front End Designer ❯ @WordPress Core Contributor ❯ !!</p>
 <!--
 **viralsampat-multidots/viralsampat-multidots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
