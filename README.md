@@ -15,7 +15,7 @@
 
 <h3>Where to find me</h3>
 
-[![LinkedIn: viral-sampat-544b1a90/]https://www.linkedin.com/in/viral-sampat-544b1a90/](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://profiles.wordpress.org/viralsampat/)]
+[![LinkedIn: viral-sampat-544b1a90/](https://img.shields.io/badge/-alvifaisal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvifaisal/)](https://www.linkedin.com/in/viral-sampat-544b1a90/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/viralsampat/)
 <!--
 **viralsampat-multidots/viralsampat-multidots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
