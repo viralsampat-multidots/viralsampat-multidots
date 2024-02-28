@@ -15,7 +15,8 @@
 
 <h3>Where to find me</h3>
 
-[![LinkedIn: viral-sampat-544b1a90/](https://img.shields.io/badge/-viral-sampat-544b1a90-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viral-sampat-544b1a90/)](https://www.linkedin.com/in/viral-sampat-544b1a90/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/viralsampat/)
+[![LinkedIn: viral-sampat-544b1a90/](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="viral-sampat-544b1a90" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/viral-sampat-544b1a90?trk=profile-badge">Viral Sampat</a></div>
+              ](https://www.linkedin.com/in/viral-sampat-544b1a90/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/viralsampat/)
 <!--
 **viralsampat-multidots/viralsampat-multidots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
