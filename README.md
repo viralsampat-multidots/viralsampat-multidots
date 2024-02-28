@@ -12,6 +12,10 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+<h3>Where to find me</h3>
+
+[![LinkedIn: viral-sampat-544b1a90/]https://www.linkedin.com/in/viral-sampat-544b1a90/](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://profiles.wordpress.org/viralsampat/)]
 <!--
 **viralsampat-multidots/viralsampat-multidots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
